@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "https://discord.com/api/webhooks/1343189121518145618/Y9BLBKfNWweKa3iRFNa5smfGLrD5NDuUcCMA-UT6Ez-aUhcHtBl9NKcDuWoWRhmPPSK5", 
   nodes: [
      {
-      name: "ChalresNaig Node",
-      password: "NAIGLAVA-dash.techbyte.host",
-      host: "lavahatry4.techbyte.host",
-      port:  3000,
+      name: "Catfein SG",
+      password: "catfein",
+      host: "lava-sg.catfein.co.id",
+      port:  5000,
       secure: false
     }
   ]

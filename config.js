@@ -15,10 +15,10 @@ module.exports = {
   errorLog: "https://discord.com/api/webhooks/1343189121518145618/Y9BLBKfNWweKa3iRFNa5smfGLrD5NDuUcCMA-UT6Ez-aUhcHtBl9NKcDuWoWRhmPPSK5", 
   nodes: [
      {
-      name: "Catfein SG",
-      password: "catfein",
-      host: "lava-sg.catfein.co.id",
-      port:  5000,
+      name: "Public Lavalink v4 NonSSL",
+      password: "https://dsc.gg/ajidevserver",
+      host: "lava-v4.ajieblogs.eu.org",
+      port:  80,
       secure: false
     }
   ]
